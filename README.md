@@ -15,6 +15,12 @@ First, we need to create a virtual environment (.venv/):
   python3 -m venv .venv
 ```
 
+Then, we need to activate the virtual environment:
+
+```bash
+  . .venv/bin/activate
+```
+
 Also, we need to install all dependencies listed in <requirements.txt>:
 
 ```bash
